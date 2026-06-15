@@ -1,0 +1,6 @@
+{
+  "name": "Politsiya va Chiyabori Quvlagichi",
+  "description": "Mashinalarni sotib olish, kuchaytirish va politsiyadan qochish o'yini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
